@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+
+form{
+	border:2px solid black;
+	padding:18px 20px;
+	font-family:Inter;
+	
+}
+h3{
+	text-align:center;
+	padding-bottom:10px;
+	font-weight:600;
+}
+input{
+	padding:4px 12px;
+}
+button{
+	padding:8px 15px;
+	border-radius:5px;	
+}
